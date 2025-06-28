@@ -1,24 +1,67 @@
-### Hi there 👋 I'm Indiravarman
+<!-- Profile README for indiravarman -->
 
-💻 I'm a student passionate about **VLSI Design**, **Analog IC desigm**, and **Digital Electronics**.  
-🎯 Currently exploring **SystemVerilog**, **UVM**, and **RTL Design**
-
----
-
-🔭 **Current Projects:**
-- 🚀 16x1 Multiplexer using Verilog
-- 🧠 Line Following Robot using Arduino
-- 📈 Case Study: Failure Analysis of SMT Components
-
-📚 **Learning Goals:**
-- Advanced VLSI tools like **Cadence Virtuoso**, **Synopsys**, and **ModelSim**
-- Embedded-C and RTOS for real-time systems
-- Building my first ASIC project!
+<h1 align="center">Hi 👋, I'm Indiravarman</h1>
+<h3 align="center">VLSI Design Enthusiast | RTL Developer | Embedded Systems Explorer</h3>
 
 ---
 
-📫 **Reach me at:**
-- Email: asindiravarman@gmail.com
-- LinkedIn:  https://www.linkedin.com/in/indiravarmanAS
+🌟 I'm passionate about transforming ideas into working silicon. From **Verilog** to **UVM**, and **Arduino** to **ASICs**, I love building and learning in the hardware world.
 
-🌱 Let's connect and grow together!
+---
+
+### ⚙️ Tech Stack
+![Verilog](https://img.shields.io/badge/-Verilog-000?style=flat&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-000?style=flat&logo=systemverilog&logoColor=white)
+![Cadence Virtuoso](https://img.shields.io/badge/-Cadence-000?style=flat&logo=cadence&logoColor=white)
+![LTspice](https://img.shields.io/badge/-LTSpice-000?style=flat&logo=ltspice&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚧 Currently Working On:
+- ✅ Designing a 16x1 multiplexer using Verilog
+- 🤖 Developing a line-following robot using Arduino + IR sensors
+- 🔍 Case study: SMT component failure in automotive PCBs
+
+---
+
+### 📚 Currently Learning
+- 🛠️ Universal Verification Methodology (UVM)
+- 📐 Cadence layout design for CMOS
+- 📜 Python scripting for testbenches
+- ⏱️ Timing analysis and STA basics
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indiravarman&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indiravarman&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 💬 Quote I Like
+> "Chips are not just silicon — they are dreams crystallized in logic."
+
+---
+
+### 🤝 Connect With Me
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOURNAME"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/indiravarman/indiravarman/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:8e44ad&height=140&section=footer"/>
+</p>
