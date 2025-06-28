@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Indiravarman
 
-💻 I'm a student passionate about **VLSI Design**, **Embedded Systems**, and **Digital Electronics**.  
+💻 I'm a student passionate about **VLSI Design**, **Analog IC desigm**, and **Digital Electronics**.  
 🎯 Currently exploring **SystemVerilog**, **UVM**, and **RTL Design**
 
 ---
@@ -18,8 +18,7 @@
 ---
 
 📫 **Reach me at:**
-- Email: yourname@email.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio Website (optional): [yourwebsite.com](https://yourwebsite.com)
+- Email: asindiravarman@gmail.com
+- LinkedIn:  https://www.linkedin.com/in/indiravarmanAS
 
 🌱 Let's connect and grow together!
