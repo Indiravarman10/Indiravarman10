@@ -6,19 +6,14 @@
 
 ---
 
-### 📌 Indiravarman A.S — Profile Summary
+### 📌 About Me
 
-<div align="center">
+────────────────────────────────────────────────────────────
 
-  <img src="https://media.giphy.com/media/3o6gDWzmAzrpi5DQU8/giphy.gif" width="140" height="140" style="border-radius: 50%;" />
-
-  <h3>Digital Design | FPGA Logic | Embedded Systems | RTL Simulation</h3>
-
-  <sub style="color:gray;">Driven by logic, powered by silicon.</sub>
-
-</div>
-
----
+**Name**       : Indiravarman A.S  
+**Domain**      : VLSI | FPGA | RTL Design | Embedded Systems  
+**Current Focus** : RTL Design, FPGA Prototyping, UVM, CMOS Layout  
+**Mindset**     : “Logic should not only work — it should endure.”
 
 ---
 
