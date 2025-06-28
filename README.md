@@ -81,13 +81,7 @@ Tools:
 
 ---
 
-### 🐍 GitHub Activity Snake
 
-<p align="center">
-  <img src="https://github.com/indiravarman/indiravarman/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
