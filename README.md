@@ -28,7 +28,7 @@ Tools:
 ### ⚙️ My Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=verilog,vhdl,vivado,c,arduino,git,github,py,cadence" />
+  <img src="https://skillicons.dev/icons?i=verilog,vhdl,vivado,c,arduino,github,py,cadence" />
 </p>
 
 > 🧠 I love making digital systems that work in real time — from **RTL** to **PCB** and from **RTL simulation** to **FPGA prototyping**.
