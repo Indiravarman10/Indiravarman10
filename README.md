@@ -8,20 +8,16 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-Name: Indiravarman A.S
-Role: FPGA + RTL + Embedded Systems Developer
-Interests:
-  - Digital IC Design & Layout
-  - SoC Design, UVM Verification
-  - Robotics + Automation
-  - Failure Analysis & Testability
-Tools:
-  - Cadence Virtuoso
-  - Xilinx Vivado
-  - ModelSim, LTspice
-  - Arduino, STM32, Python
-```
+<div align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="160" alt="typing animation" />
+</div>
+
+<div align="center">
+  <b>Indiravarman A.S</b><br/>
+  <i>FPGA | RTL | Embedded Systems | VLSI Design</i>
+</div>
+
+---
 
 ---
 
