@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋 I'm Indiravarman
 
-<!--
-**Indiravarman10/Indiravarman10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a student passionate about **VLSI Design**, **Embedded Systems**, and **Digital Electronics**.  
+🎯 Currently exploring **SystemVerilog**, **UVM**, and **RTL Design**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Current Projects:**
+- 🚀 16x1 Multiplexer using Verilog
+- 🧠 Line Following Robot using Arduino
+- 📈 Case Study: Failure Analysis of SMT Components
+
+📚 **Learning Goals:**
+- Advanced VLSI tools like **Cadence Virtuoso**, **Synopsys**, and **ModelSim**
+- Embedded-C and RTOS for real-time systems
+- Building my first ASIC project!
+
+---
+
+📫 **Reach me at:**
+- Email: yourname@email.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Portfolio Website (optional): [yourwebsite.com](https://yourwebsite.com)
+
+🌱 Let's connect and grow together!
