@@ -11,7 +11,6 @@
 
 ### ⚙️ Tech Stack
 ![Verilog](https://img.shields.io/badge/-Verilog-000?style=flat&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-000?style=flat&logo=systemverilog&logoColor=white)
 ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence-000?style=flat&logo=cadence&logoColor=white)
 ![LTspice](https://img.shields.io/badge/-LTSpice-000?style=flat&logo=ltspice&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
@@ -51,16 +50,12 @@
 
 ### 🤝 Connect With Me
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOURNAME"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:asindiravarman@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href=" https://www.linkedin.com/in/indiravarmanAS"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/indiravarman/indiravarman/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:8e44ad&height=140&section=footer"/>
